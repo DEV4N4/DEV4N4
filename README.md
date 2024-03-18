@@ -15,18 +15,21 @@
     <a href="https://sangumi.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-  
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=sangumi&theme=default)](https://sangumi.tistory.com/)
+
+<!--
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=sangumi)](https://sangumi.tistory.com/)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=sangumi&theme=santorini)](https://sangumi.tistory.com/)
+-->
+[![SanDeul's Tistory](https://github-readme-tistory-card.vercel.app/api?name=sangumi&postId=default)](https://sangumi.tistory.com/)
 </div>
 <br/>
 
-<!--
 ## 🏆 BOJ 🏆
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tksemf1706)](https://solved.ac/tksemf1706)
 <br/>
 <br/>
--->
+
 
  
 ## 📞 Contact 📞
