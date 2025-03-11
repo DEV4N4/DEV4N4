@@ -27,21 +27,20 @@
 <br/>
 -->
 
-
 ## 🏆 BOJ 🏆
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tksemf1706)](https://solved.ac/tksemf1706)
 <br/>
 <br/>
 
-
- 
 ## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:tksemf7410@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tksemf7410@gmail.com)  
+<sub>📩 문의 사항이나 공식적인 요청이 필요하다면 이메일을 보내주세요.</sub>
+<br/>
+<br/>
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eUqa7Z9wR2)  
+<sub>💬 가벼운 질문이 있거나 실시간으로 이야기하고 싶다면 디스코드에서 만나요!</sub>
 <br/>
     
 ## 🔨 Tech Stack 🔨
@@ -62,4 +61,8 @@
 </div><br>
 </div>
 
+<!--
+<p>참고</p>
+<a href="https://github.com/Ileriayo/markdown-badges" alt="뱃지" />
+-->
 
