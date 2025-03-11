@@ -40,7 +40,7 @@
 <br/>
 <br/>
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eUqa7Z9wR2)  
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eUqa7Z9wR2)  
 <sub>💬 가벼운 질문이 있거나 실시간으로 이야기하고 싶다면 디스코드에서 만나요!</sub>
 <br/>
 <br/>
