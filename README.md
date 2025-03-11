@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=DEV%20VAN%20😉&fontSize=78&animation=fadeIn&desc=2nd-year%20developer,%20embracing%20constant%20challenges%20🚀✨&descAlignY=85&fontColor=dddddd&descSize=12)
+![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=DEV%20VAN%20😉&fontSize=78&animation=fadeIn&desc=3nd-year%20developer,%20embracing%20constant%20challenges%20🚀✨&descAlignY=85&fontColor=dddddd&descSize=12)
 
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsandeulju0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/sandeulju)
 
