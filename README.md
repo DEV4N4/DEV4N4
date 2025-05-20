@@ -2,7 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=DEV%20SANDEUL%20😋&fontSize=56&animation=fadeIn&desc=As%20a%20frontend%20developer%20with%20a%20design%20background,%20I%20love%20taking%20on%20new%20challenges.%20🚀✨&descAlignY=85&fontColor=dddddd&descSize=12)
 
+<!--
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsandeulju0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/sandeulju)
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeulju&layout=donut)](https://github.com/sandeulju/github-readme-stats)
 
