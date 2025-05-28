@@ -29,12 +29,14 @@
 <br/>
 -->
 
+<!--
 ## 🏆 BOJ 🏆
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tksemf1706)](https://solved.ac/tksemf1706)
 <br/>
 <br/>
 <br/>
+-->
 
 ## 📞 Contact 📞
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tksemf7410@gmail.com)  
