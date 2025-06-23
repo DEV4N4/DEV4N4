@@ -38,13 +38,13 @@
 <br/>
 -->
 
-## 📞 Contact 📞
+## ✉️ Contact ✉️
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tksemf7410@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eUqa7Z9wR2)  
 
 <br/>
     
-## 🔨 Tech Stack 🔨
+## ✨ Tech Stack ✨
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
