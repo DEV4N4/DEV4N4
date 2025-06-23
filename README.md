@@ -1,16 +1,16 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=DEV%20SANDEUL%20😋&fontSize=56&animation=fadeIn&desc=As%20a%20frontend%20developer%20with%20a%20design%20background,%20I%20love%20taking%20on%20new%20challenges.%20🚀✨&descAlignY=85&fontColor=dddddd&descSize=12)
+![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=DEV%204N4&fontSize=56&animation=fadeIn&desc=As%20a%20frontend%20developer%20with%20a%20design%20background,%20I%20love%20taking%20on%20new%20challenges.%20✨&descAlignY=85&fontColor=dddddd&descSize=12)
 
 <!--
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsandeulju0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/sandeulju)
 -->
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev4n4&layout=donut)](https://github.com/dev4n4/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeulju&layout=donut)](https://github.com/sandeulju/github-readme-stats)
-
-[![Sandeul's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeulju&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/sandeulju/github-readme-stats)
-
+[![Sandeul's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev4n4&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/dev4n4/github-readme-stats)
 <br/>
+-->
 
 <!--
 ## 💻 DEV's log 💻
@@ -40,12 +40,12 @@
 
 ## 📞 Contact 📞
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tksemf7410@gmail.com)  
-<sub>📩 문의 사항이나 공식적인 요청이 필요하다면 이메일을 보내주세요.</sub>
+<sub>📩 If you have any inquiries or official requests, please feel free to send an email.</sub>
 <br/>
 <br/>
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eUqa7Z9wR2)  
-<sub>💬 가벼운 질문이 있거나 실시간으로 이야기하고 싶다면 디스코드에서 만나요!</sub>
+<sub>💬 If you have a quick question or just want to chat in real time, join me on Discord!</sub>
 <br/>
 <br/>
 <br/>
