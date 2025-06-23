@@ -39,15 +39,9 @@
 -->
 
 ## 📞 Contact 📞
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tksemf7410@gmail.com)  
-<sub>📩 If you have any inquiries or official requests, please feel free to send an email.</sub>
-<br/>
-<br/>
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tksemf7410@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eUqa7Z9wR2)  
-<sub>💬 If you have a quick question or just want to chat in real time, join me on Discord!</sub>
-<br/>
-<br/>
+
 <br/>
     
 ## 🔨 Tech Stack 🔨
